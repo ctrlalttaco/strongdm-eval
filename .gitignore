@@ -1,0 +1,6 @@
+.terraform/**
+*.tfstate
+*.tfstate.backup
+backend.tf
+ssh_config
+ssh_rsa
